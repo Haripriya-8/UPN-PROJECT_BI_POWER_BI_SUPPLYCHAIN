@@ -1,4 +1,4 @@
-# UPN-PROJECT_BI_POWER_BI_SUPPLYCHAIN
+# UNP-PROJECT_BI_WITH_POWER_BI_SUPPLYCHAIN
 completed this project as part of my BI with power BI internship with united network of professionals (UNP).
 
 Key highlights
